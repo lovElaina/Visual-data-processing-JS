@@ -1,0 +1,1130 @@
+[
+  {
+    "center": {
+      "x": 93.57422,
+      "y": 70.74286
+    },
+    "row": 0,
+    "col": 0,
+    "category": "中华(全开式)",
+    "brand": "中华",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 163.65909,
+      "y": 70.85332
+    },
+    "row": 0,
+    "col": 1,
+    "category": "中华(软)",
+    "brand": "中华",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 211.32285,
+      "y": 71.12381
+    },
+    "row": 0,
+    "col": 2,
+    "category": "中华(硬)",
+    "brand": "中华",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 258.6412,
+      "y": 71.33446
+    },
+    "row": 0,
+    "col": 3,
+    "category": "云烟(软大重九)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 306.00946,
+      "y": 72.02992
+    },
+    "row": 0,
+    "col": 4,
+    "category": "云烟(印象)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 354.87686,
+      "y": 70.93977
+    },
+    "row": 0,
+    "col": 5,
+    "category": "钻石(荷花)",
+    "brand": "钻石",
+    "company": "河北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 403.34808,
+      "y": 70.46791
+    },
+    "row": 0,
+    "col": 6,
+    "category": "贵烟(硬小国酒香)",
+    "brand": "贵烟",
+    "company": "贵州中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 452.6502,
+      "y": 63.65519
+    },
+    "row": 0,
+    "col": 7,
+    "category": "云烟(细支大重九)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 502.3537,
+      "y": 68.36215
+    },
+    "row": 0,
+    "col": 8,
+    "category": "白沙(和天下)",
+    "brand": "白沙",
+    "company": "湖南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 552.3522,
+      "y": 67.612144
+    },
+    "row": 0,
+    "col": 9,
+    "category": "苏烟(软金砂)",
+    "brand": "苏烟",
+    "company": "江苏中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 600.7219,
+      "y": 63.454483
+    },
+    "row": 0,
+    "col": 10,
+    "category": "娇子(天之娇子)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 652.41394,
+      "y": 60.946312
+    },
+    "row": 0,
+    "col": 11,
+    "category": "黄鹤楼(1916硬普)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 703.35016,
+      "y": 52.949078
+    },
+    "row": 0,
+    "col": 12,
+    "category": "南京(雨花石)",
+    "brand": "南京",
+    "company": "江苏中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 756.40674,
+      "y": 47.54593
+    },
+    "row": 0,
+    "col": 13,
+    "category": "钻石(细支荷花)",
+    "brand": "钻石",
+    "company": "河北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 809.5067,
+      "y": 48.51246
+    },
+    "row": 0,
+    "col": 14,
+    "category": "未入库",
+    "brand": "未入库",
+    "company": "未入库",
+    "case_bar_code": "未入库"
+  },
+  {
+    "center": {
+      "x": 863.6594,
+      "y": 47.138023
+    },
+    "row": 0,
+    "col": 15,
+    "category": "黄鹤楼(硬峡谷柔情)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 919.7268,
+      "y": 39.84412
+    },
+    "row": 0,
+    "col": 16,
+    "category": "娇子(传奇天子)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 974.666,
+      "y": 39.854744
+    },
+    "row": 0,
+    "col": 17,
+    "category": "黄鹤楼(软1916爆珠)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 58.056107,
+      "y": 182.56927
+    },
+    "row": 1,
+    "col": 0,
+    "category": "中华(双中支)",
+    "brand": "中华",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 110.92201,
+      "y": 183.77473
+    },
+    "row": 1,
+    "col": 1,
+    "category": "天子(五粮香20年)",
+    "brand": "天子",
+    "company": "重庆中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 159.58304,
+      "y": 182.7309
+    },
+    "row": 1,
+    "col": 2,
+    "category": "未入库",
+    "brand": "未入库",
+    "company": "未入库",
+    "case_bar_code": "未入库"
+  },
+  {
+    "center": {
+      "x": 207.50949,
+      "y": 183.05328
+    },
+    "row": 1,
+    "col": 3,
+    "category": "长城(万里长城)",
+    "brand": "长城",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 258.0648,
+      "y": 181.08598
+    },
+    "row": 1,
+    "col": 4,
+    "category": "利群(软长嘴)",
+    "brand": "利群",
+    "company": "浙江中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 306.96628,
+      "y": 176.47296
+    },
+    "row": 1,
+    "col": 5,
+    "category": "苏烟(五星红杉树)",
+    "brand": "苏烟",
+    "company": "江苏中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 357.24072,
+      "y": 175.1355
+    },
+    "row": 1,
+    "col": 6,
+    "category": "黄金叶(天香细支)",
+    "brand": "黄金叶",
+    "company": "河南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 406.90872,
+      "y": 174.7613
+    },
+    "row": 1,
+    "col": 7,
+    "category": "天子(千里江山细支)",
+    "brand": "天子",
+    "company": "重庆中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 455.46967,
+      "y": 176.65677
+    },
+    "row": 1,
+    "col": 8,
+    "category": "玉溪(硬和谐)",
+    "brand": "玉溪",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 504.87726,
+      "y": 176.35214
+    },
+    "row": 1,
+    "col": 9,
+    "category": "凤凰(细支)",
+    "brand": "凤凰",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 556.3324,
+      "y": 173.93877
+    },
+    "row": 1,
+    "col": 10,
+    "category": "双喜(国喜细支)",
+    "brand": "双喜",
+    "company": "广东中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 608.23206,
+      "y": 175.23828
+    },
+    "row": 1,
+    "col": 11,
+    "category": "555(双冰)",
+    "brand": "五五五",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 660.48474,
+      "y": 173.89679
+    },
+    "row": 1,
+    "col": 12,
+    "category": "七星(天蓝)",
+    "brand": "柔和七星",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 712.7478,
+      "y": 174.30496
+    },
+    "row": 1,
+    "col": 13,
+    "category": "555(金新版)",
+    "brand": "五五五",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 765.89905,
+      "y": 172.63527
+    },
+    "row": 1,
+    "col": 14,
+    "category": "555(金锐新版)",
+    "brand": "五五五",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 821.0679,
+      "y": 168.68375
+    },
+    "row": 1,
+    "col": 15,
+    "category": "万宝路(软红2.0)",
+    "brand": "万宝路",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 876.88074,
+      "y": 167.0661
+    },
+    "row": 1,
+    "col": 16,
+    "category": "万宝路(硬红2.0)",
+    "brand": "万宝路",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 933.2337,
+      "y": 164.3121
+    },
+    "row": 1,
+    "col": 17,
+    "category": "万宝路(软金)",
+    "brand": "万宝路",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 991.09076,
+      "y": 157.84932
+    },
+    "row": 1,
+    "col": 18,
+    "category": "未入库",
+    "brand": "未入库",
+    "company": "未入库",
+    "case_bar_code": "未入库"
+  },
+  {
+    "center": {
+      "x": 52.41816,
+      "y": 302.56372
+    },
+    "row": 2,
+    "col": 0,
+    "category": "娇子(宽窄逍遥细支)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 105.45137,
+      "y": 303.83725
+    },
+    "row": 2,
+    "col": 1,
+    "category": "云烟(细支珍品)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 154.85371,
+      "y": 302.95203
+    },
+    "row": 2,
+    "col": 2,
+    "category": "玉溪(清香世家)",
+    "brand": "玉溪",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 204.61392,
+      "y": 302.95117
+    },
+    "row": 2,
+    "col": 3,
+    "category": "芙蓉王(硬细支)",
+    "brand": "芙蓉王",
+    "company": "湖南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 253.99487,
+      "y": 302.7213
+    },
+    "row": 2,
+    "col": 4,
+    "category": "云烟(神秘花园)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 302.609,
+      "y": 302.92645
+    },
+    "row": 2,
+    "col": 5,
+    "category": "南京(十二钗烤烟)",
+    "brand": "南京",
+    "company": "江苏中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 354.30997,
+      "y": 303.59564
+    },
+    "row": 2,
+    "col": 6,
+    "category": "玉溪(细支初心)",
+    "brand": "玉溪",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 405.2215,
+      "y": 304.55322
+    },
+    "row": 2,
+    "col": 7,
+    "category": "黄鹤楼(硬嘉禧缘)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 454.6709,
+      "y": 302.9875
+    },
+    "row": 2,
+    "col": 8,
+    "category": "爱喜(幻变)",
+    "brand": "爱喜",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 507.1806,
+      "y": 301.7247
+    },
+    "row": 2,
+    "col": 9,
+    "category": "黄山(红方印细支)",
+    "brand": "黄山",
+    "company": "安徽中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 558.0779,
+      "y": 301.99823
+    },
+    "row": 2,
+    "col": 10,
+    "category": "真龙(凌云)",
+    "brand": "真龙",
+    "company": "广西中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 608.63477,
+      "y": 301.11896
+    },
+    "row": 2,
+    "col": 11,
+    "category": "长白山(777)",
+    "brand": "长白山",
+    "company": "中烟实业",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 661.7523,
+      "y": 301.1499
+    },
+    "row": 2,
+    "col": 12,
+    "category": "未入库",
+    "brand": "未入库",
+    "company": "未入库",
+    "case_bar_code": "未入库"
+  },
+  {
+    "center": {
+      "x": 717.0796,
+      "y": 302.17993
+    },
+    "row": 2,
+    "col": 13,
+    "category": "贵烟(跨越)",
+    "brand": "贵烟",
+    "company": "贵州中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 772.1365,
+      "y": 297.02905
+    },
+    "row": 2,
+    "col": 14,
+    "category": "娇子(X龙韵)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 825.1833,
+      "y": 296.29822
+    },
+    "row": 2,
+    "col": 15,
+    "category": "娇子(X生肖贵妃荔枝)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 880.87964,
+      "y": 293.97507
+    },
+    "row": 2,
+    "col": 16,
+    "category": "长城(醇雅薄荷)",
+    "brand": "长城",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 937.06104,
+      "y": 292.79785
+    },
+    "row": 2,
+    "col": 17,
+    "category": "建牌(薄荷细支1)",
+    "brand": "建牌",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 994.2616,
+      "y": 288.87088
+    },
+    "row": 2,
+    "col": 18,
+    "category": "建牌(薄荷中空4)",
+    "brand": "建牌",
+    "company": "外烟公司",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 41.809456,
+      "y": 431.3341
+    },
+    "row": 3,
+    "col": 0,
+    "category": "黄鹤楼(硬峡谷情)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 93.56888,
+      "y": 432.3958
+    },
+    "row": 3,
+    "col": 1,
+    "category": "云烟(74mm大团结)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 146.11089,
+      "y": 432.72897
+    },
+    "row": 3,
+    "col": 2,
+    "category": "黄鹤楼(硬祝福)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 194.95178,
+      "y": 432.5747
+    },
+    "row": 3,
+    "col": 3,
+    "category": "黄鹤楼(雅香金)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 244.9436,
+      "y": 432.2956
+    },
+    "row": 3,
+    "col": 4,
+    "category": "黄鹤楼(硬雅香)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 294.00757,
+      "y": 432.37103
+    },
+    "row": 3,
+    "col": 5,
+    "category": "黄鹤楼(软雅韵)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 344.18445,
+      "y": 432.896
+    },
+    "row": 3,
+    "col": 6,
+    "category": "黄鹤楼(软蓝)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 397.1223,
+      "y": 433.12152
+    },
+    "row": 3,
+    "col": 7,
+    "category": "黄鹤楼(天下名楼)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 447.4477,
+      "y": 433.19446
+    },
+    "row": 3,
+    "col": 8,
+    "category": "利群(西子阳光)",
+    "brand": "利群",
+    "company": "浙江中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 501.25488,
+      "y": 432.90356
+    },
+    "row": 3,
+    "col": 9,
+    "category": "贵烟(行者)",
+    "brand": "贵烟",
+    "company": "贵州中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 555.52124,
+      "y": 439.08926
+    },
+    "row": 3,
+    "col": 10,
+    "category": "娇子(五粮醇香)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 607.10565,
+      "y": 438.393
+    },
+    "row": 3,
+    "col": 11,
+    "category": "娇子(宽窄好运)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 660.174,
+      "y": 438.9724
+    },
+    "row": 3,
+    "col": 12,
+    "category": "娇子(宽窄如意)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 716.066,
+      "y": 438.22363
+    },
+    "row": 3,
+    "col": 13,
+    "category": "娇子(梦幻九寨沟)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 768.8677,
+      "y": 437.75586
+    },
+    "row": 3,
+    "col": 14,
+    "category": "玉溪(软尚善)",
+    "brand": "玉溪",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 823.9154,
+      "y": 431.70764
+    },
+    "row": 3,
+    "col": 15,
+    "category": "娇子(X冰爆)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 879.2588,
+      "y": 429.67914
+    },
+    "row": 3,
+    "col": 16,
+    "category": "南京(炫赫门)",
+    "brand": "南京",
+    "company": "江苏中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 938.563,
+      "y": 433.7081
+    },
+    "row": 3,
+    "col": 17,
+    "category": "黄山(小红方印新版)",
+    "brand": "黄山",
+    "company": "安徽中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 999.6763,
+      "y": 438.7511
+    },
+    "row": 3,
+    "col": 18,
+    "category": "大前门(短支)",
+    "brand": "大前门",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 29.968214,
+      "y": 561.5664
+    },
+    "row": 4,
+    "col": 0,
+    "category": "娇子(五粮浓香中支)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 83.591286,
+      "y": 561.53723
+    },
+    "row": 4,
+    "col": 1,
+    "category": "云烟(硬云龙)",
+    "brand": "云烟",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 133.82002,
+      "y": 562.1707
+    },
+    "row": 4,
+    "col": 2,
+    "category": "玉溪(高配版)",
+    "brand": "玉溪",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 183.50912,
+      "y": 566.69653
+    },
+    "row": 4,
+    "col": 3,
+    "category": "黄鹤楼(硬8度)",
+    "brand": "黄鹤楼",
+    "company": "湖北中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 235.53752,
+      "y": 567.22595
+    },
+    "row": 4,
+    "col": 4,
+    "category": "天子(小天子)",
+    "brand": "天子",
+    "company": "重庆中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 287.17407,
+      "y": 567.2811
+    },
+    "row": 4,
+    "col": 5,
+    "category": "娇子(祥云)",
+    "brand": "娇子",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 339.59937,
+      "y": 568.0432
+    },
+    "row": 4,
+    "col": 6,
+    "category": "天子(金)",
+    "brand": "天子",
+    "company": "重庆中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 391.14124,
+      "y": 569.59534
+    },
+    "row": 4,
+    "col": 7,
+    "category": "长城(传奇)",
+    "brand": "长城",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 445.43124,
+      "y": 569.96686
+    },
+    "row": 4,
+    "col": 8,
+    "category": "利群(软红长嘴)",
+    "brand": "利群",
+    "company": "浙江中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 496.17227,
+      "y": 569.70703
+    },
+    "row": 4,
+    "col": 9,
+    "category": "牡丹(软)",
+    "brand": "牡丹",
+    "company": "上海烟草",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 550.7246,
+      "y": 569.5693
+    },
+    "row": 4,
+    "col": 10,
+    "category": "兰州(硬珍品)",
+    "brand": "兰州",
+    "company": "中烟实业",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 604.6635,
+      "y": 569.41534
+    },
+    "row": 4,
+    "col": 11,
+    "category": "芙蓉王(硬)",
+    "brand": "芙蓉王",
+    "company": "湖南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 659.39307,
+      "y": 569.6471
+    },
+    "row": 4,
+    "col": 12,
+    "category": "黄山(大黄山)",
+    "brand": "黄山",
+    "company": "安徽中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 713.15967,
+      "y": 570.10077
+    },
+    "row": 4,
+    "col": 13,
+    "category": "泰山(青秀)",
+    "brand": "泰山",
+    "company": "山东中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 768.2024,
+      "y": 576.8307
+    },
+    "row": 4,
+    "col": 14,
+    "category": "黄山(最美高铁新版)",
+    "brand": "黄山",
+    "company": "安徽中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 824.1405,
+      "y": 577.338
+    },
+    "row": 4,
+    "col": 15,
+    "category": "黄山(记忆)",
+    "brand": "黄山",
+    "company": "安徽中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 884.1772,
+      "y": 574.0133
+    },
+    "row": 4,
+    "col": 16,
+    "category": "龙凤呈祥(硬珍品)",
+    "brand": "龙凤呈祥",
+    "company": "重庆中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 941.5945,
+      "y": 570.0448
+    },
+    "row": 4,
+    "col": 17,
+    "category": "红河(A7)",
+    "brand": "红河",
+    "company": "云南中烟",
+    "case_bar_code": ""
+  },
+  {
+    "center": {
+      "x": 998.51154,
+      "y": 574.5216
+    },
+    "row": 4,
+    "col": 18,
+    "category": "狮牌(锦绣成都)",
+    "brand": "狮牌",
+    "company": "四川中烟",
+    "case_bar_code": ""
+  }
+]
