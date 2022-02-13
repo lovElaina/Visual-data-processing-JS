@@ -1,0 +1,126 @@
+#wrapper{
+    width:1200px;
+    margin: 0 auto;
+
+}
+
+#wrapper .header{
+    display: -webkit-flex;
+    display: flex;
+    justify-content: space-evenly;
+    background: #e0e3e8;
+}
+
+.header>div {
+    flex:1;
+    text-align: center;
+}
+
+.items{
+    padding: 15px 0 15px 15px;
+}
+
+.items:last-child{
+    padding-right: 15px;
+}
+.items .keys{
+    /*background: aquamarine;*/
+    background: white;
+    padding: 8px 8px 0 8px;
+}
+.items .values{
+    /*background: palegoldenrod;*/
+    background: white;
+    padding: 8px;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+#canvas_wrapper{
+    background: #ffffff;
+    flex-basis: 800px;
+    height: 600px;
+}
+
+#canvas_pic{
+    background: #bdbdbd;
+}
+
+#sidebar{
+    background: #eef0f4;
+    flex-basis: 400px;
+    height: 600px;
+}
+
+.tabs {
+    flex-grow: 1;
+    display: block;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: flex;
+    -webkit-flex-wrap: wrap;
+    -moz-flex-wrap: wrap;
+    flex-wrap: wrap;
+    width: 400px;
+    margin: 0 auto;
+    overflow: hidden;
+    margin-right: 0;
+    /*background: #ffa6a6*/}
+.tabs [class^="tab"] label,
+.tabs [class*=" tab"] label {
+    /*     color: black; */
+    cursor: pointer;
+    display: block;
+    font-size: 1.1em;
+    font-weight: 300;
+    line-height: 1em;
+    padding: 1rem 0;
+    text-align: center; }
+.tabs [class^="tab"] [type="radio"],
+.tabs [class*=" tab"] [type="radio"] {
+    /*     border-bottom: 1px solid rgba(239, 237, 239, 0.5); */
+    cursor: pointer;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: block;
+    width: 100%;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out; }
+.tabs [class^="tab"] [type="radio"]:hover, .tabs [class^="tab"] [type="radio"]:focus,
+.tabs [class*=" tab"] [type="radio"]:hover,
+.tabs [class*=" tab"] [type="radio"]:focus {
+    /*    tab标签选中的颜色标志      */
+    border-bottom: 1px solid #40a9ff;
+}
+.tabs [class^="tab"] [type="radio"]:checked,
+.tabs [class*=" tab"] [type="radio"]:checked {
+    border-bottom: 3px solid #40a9ff;
+}
+.tabs [class^="tab"] [type="radio"]:checked + div,
+.tabs [class*=" tab"] [type="radio"]:checked + div {
+    opacity: 1; }
+.tabs [class^="tab"] [type="radio"] + div,
+.tabs [class*=" tab"] [type="radio"] + div {
+    display: block;
+    opacity: 0;
+    padding: 0 0;
+    width: 90%;
+    -webkit-transition: all 0.3s ease-in-out;
+    -moz-transition: all 0.3s ease-in-out;
+    -o-transition: all 0.3s ease-in-out;
+    transition: all 0.3s ease-in-out; }
+.tabs .tab-2 {
+    width: 200px; }
+.tabs .tab-2 [type="radio"] + div {
+    /*width: 200%;*/
+    width: 400px;
+    margin-left: 200%; }
+.tabs .tab-2 [type="radio"]:checked + div {
+    margin-left: 0; }
+.tabs .tab-2:last-child [type="radio"] + div {
+    margin-left: 100%; }
+.tabs .tab-2:last-child [type="radio"]:checked + div {
+    margin-left: -100%; }
